@@ -1,0 +1,49 @@
+Data tersimpan!
+Nama Pelanggan : ii 
+Jenis Barang : Kulkas 
+Opsi Layanan : Cleaning and Service
+Alamat : hhh
+Nomor HP :888
+
+Data tersimpan!
+Nama Pelanggan : Irfan 
+Jenis Barang : Mesin Cuci 
+Opsi Layanan : Cleaning and Service
+Alamat : ahdha
+Nomor HP :034773
+Total Harga :null
+Data tersimpan!
+Nama Pelanggan : Irfan 
+Jenis Barang : Mesin Cuci 
+Opsi Layanan : Cleaning and Service
+Alamat : ahdha
+Nomor HP :034773
+Total Harga :null
+Data tersimpan!
+Nama Pelanggan : dsfsfsf 
+Jenis Barang : Mesin Cuci 
+Opsi Layanan : Cleaning and Service
+Alamat : dfdfdsf
+Nomor HP :232143
+Total Harga :null
+Data tersimpan!
+Nama Pelanggan : Irfan 
+Jenis Barang : Mesin Cuci 
+Opsi Layanan : Cleaning and Service
+Alamat : garuda sakti
+Nomor HP :082384923113
+Total Harga :null
+Data tersimpan!
+Nama Pelanggan : Irfan 
+Jenis Barang : Kulkas 
+Opsi Layanan : Cleaning only
+Alamat : garuda sakti
+Nomor HP :08372662
+Total Harga :null
+Data tersimpan!
+Nama Pelanggan : Irfan 
+Jenis Barang : Mesin Cuci 
+Opsi Layanan : Cleaning and Service
+Alamat : kjajsd
+Nomor HP :827323
+
